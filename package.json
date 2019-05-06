@@ -1,0 +1,23 @@
+{
+  "name": "Travis-CI-test-demo",
+  "version": "1.0.0",
+  "description": "Travis CI test-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerinlin/Travis-CI-test-demo.git"
+  },
+  "keywords": [],
+  "author": "kerinlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerinlin/Travis-CI-test-demo/issues"
+  },
+  "homepage": "https://github.com/Kerinlin/Travis-CI-test-demo#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
